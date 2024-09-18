@@ -46,3 +46,21 @@ body{
 {
     background-color: #a6936e;
 }
+@media screen and (max-width:500px)
+{
+  .btn
+{
+  color: white;
+  margin: 10px;
+  min-width: 80px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  padding: 4px 8px;
+}
+body{
+  background-color: #e5edd6;
+  margin: 0;
+  padding: 5px 10px;
+}
+}

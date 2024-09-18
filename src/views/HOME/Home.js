@@ -4,7 +4,7 @@ import ImgSecure from './secure.png'
 import Imgbrain from './brain.png'
 import Imglike from './like.png'
 import FeatureCard from './../../components/featurecard/featurecard'
-
+import {Link} from "react-router-dom"
 const FEATURE=
 [
   {
@@ -28,10 +28,10 @@ function Home() {
       <p className='text-center text-black '>
         Your pocket freindly note taking app !!!
         {"  "}<del>Never forgot anything </del>{"  "}
-        <span className='highlight text-black'>Always keep remember  🧠</span>
+        <span className='highlight text-black tagline-highlight'>Always keep remember  🧠</span>
       </p>
       <div>
-      <h2 className='text-center text-secondary'>
+      <h2 className='text-center text-secondary tagline'>
           Why should you use Quick Note?
         </h2>
         <div className='feature-container'>
@@ -51,8 +51,12 @@ function Home() {
       </div>
 
       <div className='btn-container'>
+        <Link to="/Add">
         <button className='btn btn-primary'>✍🏻Add note</button>
+        </Link>
+        <Link to="/Show">
         <button className=' btn btn-secondary'>📕 View note</button>
+        </Link>
       </div>
     </div>
   )

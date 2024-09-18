@@ -25,3 +25,10 @@ margin:50px 20px;
     font-size: 15px;
     color: #383722;
 }
+@media screen and (max-width:500px)
+ {
+    .feature-card
+    {
+       margin-top: 20px;
+    }
+}
