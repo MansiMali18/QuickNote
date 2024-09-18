@@ -8,15 +8,15 @@ import FeatureCard from './../../components/featurecard/featurecard'
 const FEATURE=
 [
   {
-    featureimg:{ImgSecure},
-    featuredescription:"Your notes and store at browsr's localstorage"
+    featureimg:ImgSecure,
+    featuredescription:"Your notes are store at browsr's localstorage"
   },
   {
-         featureimg:{Imgbrain},
+         featureimg:Imgbrain,
             featuredescription:"Use your brain for thinking not for remebering things"
   },
   { 
-    featureimg:{Imglike},
+    featureimg:Imglike,
             featuredescription:"Loved by 100k+users"
 
   }
