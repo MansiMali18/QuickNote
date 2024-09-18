@@ -1,0 +1,48 @@
+body{
+  background-color: #e5edd6;
+  margin: 0;
+  padding: 20px 50px;
+}
+.text-center
+{
+  text-align: center;
+}
+.text-primary
+{
+  color: #FF8A8A;
+}
+.text-secondary
+{
+ color:  #625740;
+}
+.highlight
+{
+  background-color: #F0EAAC;
+}
+.text-black
+{
+  color: black;
+}
+.text-white
+{
+  color: white;
+}
+.btn
+{
+  color: white;
+  margin: 20px;
+  min-width: 120px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 10px 15px;
+}
+.btn-primary
+{
+  background-color: #FF8A8A;
+
+}
+.btn-secondary
+{
+    background-color: #a6936e;
+}

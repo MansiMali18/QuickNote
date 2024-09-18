@@ -1,0 +1,27 @@
+.feature-container
+{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50pxpx;
+    margin-bottom: 20px;
+}
+.feature-card
+{
+    background-color: white;
+ width: 280px;
+ padding:15px 20px;
+ box-shadow: 0px 0px 20px #F0EAAC;
+border-radius: 10px;
+cursor: pointer;
+margin:50px 20px;
+}
+.feature-card img{
+    height: 40px;
+    display: block;
+    margin: 20px auto;
+}
+.feature-text
+{
+    font-size: 15px;
+    color: #383722;
+}
