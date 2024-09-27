@@ -19,14 +19,9 @@ function NoteCategory({ category }) {
 
   const CATEGORY_EMOJIS = {
     "shopping": "🛒",
-    "to-do": "📋",
     "work": "💼",
-    "meetings": "👩🏻‍💻",
     "personal": "👨‍👩‍👦",
-    "learning": "📚",
-    "health/fitness": "🏋",
-    "travel": "✈️",
-    "finance": "💸"
+    "learn": "📚",
   }
 
   return (
