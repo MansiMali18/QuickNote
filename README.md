@@ -2,7 +2,7 @@
 
 ![Quick note application](quick-note1.PNG)
 
-<h2>Features<h2>
+<h2>Features</h2>
 <h3>Create Notes:</h3> Users can add new notes with a title and content.
 ![Add note](quicknote2.PNG)
 <h3>Show note :</h3> User can access notes from local storage which  stored .
