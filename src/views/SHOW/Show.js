@@ -1,7 +1,7 @@
 import React  , {useState , useEffect}from 'react'
 import './Show.css'
 import Homebtn from '../../components/Homebtn/Homebtn'
-import Notecard from '../../components/Notecard/Notecard';
+import {Notecard , NoteCategory} from '../../components/Notecard/Notecard';
 function Show() 
 {
   const  [notes, setNote]=useState({});
