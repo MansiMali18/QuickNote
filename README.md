@@ -1,4 +1,3 @@
-Quick Note Application 
+**Quick Note Application**
 
-
-![Quick note](quick-note1.PNG)
+![Quick note application](quick-note1.PNG)
