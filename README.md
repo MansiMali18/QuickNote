@@ -1,5 +1,5 @@
 <h1>Quick Note Application</h1>
-
+<h2>This is a simple, lightweight note-taking application built with React.js. The app allows users to create, edit, delete, and manage notes efficiently. It is designed with a clean, intuitive user interface, making it easy to organize thoughts or track tasks.</h2>
 ![Quick note application](quick-note1.PNG)
 
 **Features**<br>
@@ -10,9 +10,6 @@
 **Delete Notes:** Remove notes that are no longer needed.
 ![Add note](quick-note3.PNG)
 **Local Storage:** Notes are saved in the browser's local storage, so data persists even after page refresh.
-**[{title: "Go office", description: "Go office at 9.00", category: "personal", emoji: "😇"}]
-0**
-: 
-**{title: "Go office", description: "Go office at 9.00", category: "personal", emoji: "😇"}**
+<br>
 **Responsive Design:** Works seamlessly across different devices.
 ![Add note](quick-note4.PNG)
